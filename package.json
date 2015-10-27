@@ -1,0 +1,28 @@
+{
+  "name": "home-library",
+  "version": "1.0.0",
+  "description": "Microservice for managing your home library. Yes - real books. From paper.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andremaha/microlibrary.git"
+  },
+  "keywords": [
+    "library",
+    "books",
+    "manager",
+    "service"
+  ],
+  "author": "Andrey I. Esaulov <esaulov.andrey@gmail.com> (http://hrf.li/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andremaha/microlibrary/issues"
+  },
+  "homepage": "https://github.com/andremaha/microlibrary",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
